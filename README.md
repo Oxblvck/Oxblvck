@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/islam-qasimov-8084b52a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="islam-qasimov-8084b52a3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/islam-qasimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="islam-qasimov-8084b52a3" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/0xblvck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="0xblvck" height="30" width="40" /></a>
 </p>
 
