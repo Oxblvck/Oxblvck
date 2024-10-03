@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islamqasimov&label=Profile%20views&color=0e75b6&style=flat" alt="islamqasimov" /> </p>
 
-- 🌱 I’m currently learning **Computer Science, Penetration Testing, Linux Administration, Cyber Security, Python Scripting, React Native**
+- 🌱 I’m currently learning **Cyber Security, Penetration Testing, Linux Administration, Computer Science, Python**
 
 - 💬 Ask me about **Penetration Testing, Red Team**
 
